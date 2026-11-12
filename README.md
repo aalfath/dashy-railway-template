@@ -1,5 +1,7 @@
 # Dashy on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/o636D6?utm_medium=integration&utm_source=button&utm_campaign=dashy)
+
 Railway template for [Dashy](https://github.com/Lissy93/dashy), a self-hosted start page and app dashboard.
 
 ## What it deploys
