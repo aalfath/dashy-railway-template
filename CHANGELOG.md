@@ -11,4 +11,5 @@ Read the entry before you apply an update in Railway.
 
 ## Unreleased
 
-- README: Deploy on Railway button. No change to the running service.
+- README: Deploy on Railway button, linked to the template `bBRT7C`. No change to the running service.
+- Removed `railway.json`: Railway stops reading it on 2026-12-01. The health check (`/healthz`) and restart policy are set on the template's service config instead. No change to the running service.
